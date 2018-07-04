@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.box{
+    width: 1500px;
+    height: 100%;
+    margin: auto;
+}
+.content{
+    width: 2500px;
+    height: 650px;
+    margin-top: 150px;
+
+}
+ul{
+    float: left;
+    width: 2500px;
+    height: 100%;
+    list-style: none;
+}
+li{
+    display: block;
+    float: left;
+    width: 300px;
+    height: 550px;
+    overflow: hidden;
+}
